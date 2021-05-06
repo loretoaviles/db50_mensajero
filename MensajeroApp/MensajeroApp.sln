@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajeroApp", "MensajeroAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajeroModel", "MensajeroModel\MensajeroModel.csproj", "{6F4C5A6C-69D7-4054-AE92-8F9B9CB67AE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketUtils", "SocketUtils\SocketUtils.csproj", "{EB06ED54-D872-4800-8AEA-02341964B8CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{6F4C5A6C-69D7-4054-AE92-8F9B9CB67AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F4C5A6C-69D7-4054-AE92-8F9B9CB67AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F4C5A6C-69D7-4054-AE92-8F9B9CB67AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB06ED54-D872-4800-8AEA-02341964B8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB06ED54-D872-4800-8AEA-02341964B8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB06ED54-D872-4800-8AEA-02341964B8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB06ED54-D872-4800-8AEA-02341964B8CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
